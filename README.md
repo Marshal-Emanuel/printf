@@ -1,6 +1,6 @@
 # printf
 # Description
-In C programming  l anguage, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+In C programming l anguage, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
 
 The available convertion specifiers are:
 
