@@ -5,7 +5,7 @@
 /**
  * _printf - function my printf
  * @format: string whit format to print
- *UKIONA ZILE MANYUMBA 
+ *
  * Return: number of chars that print
  */
 int _printf(const char *format, ...)
