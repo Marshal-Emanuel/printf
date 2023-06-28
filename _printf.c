@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * _printf -  function my printf
+ * _printf - function my printf
  * @format: string whit format to print
  *
  * Return: number of chars that print
